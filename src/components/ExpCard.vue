@@ -11,9 +11,16 @@ const expItems = [
   {
     name: 'Launch Labs',
     link: 'https://launchlabs.ai/',
+    role: 'Software Engineering Manager',
+    icon: launchlabsIcon,
+    dates: '2025 - Present',
+  },
+  {
+    name: 'Launch Labs',
+    link: 'https://launchlabs.ai/',
     role: 'Senior Software Engineer',
     icon: launchlabsIcon,
-    dates: '2024 - Present',
+    dates: '2024 - 2025',
   },
   {
     name: 'ASMBL',

@@ -1,6 +1,6 @@
 <script setup>
 import TileCard from '@/components/TileCard.vue'
-import avatar from '@/assets/icons/avatar.png';
+import avatar from '@/assets/icons/avatar_2.png';
 </script>
 
 <template>

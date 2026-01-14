@@ -33,3 +33,9 @@ yarn build
 ```sh
 yarn lint
 ```
+
+___
+
+## Deploying site
+
+- merge `dev` branch to `main`. Deploy runs via github actions.
